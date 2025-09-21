@@ -4,5 +4,7 @@ KPIs & Metrics – Displayed key HR metrics such as retention rate, average tenu
 Interactive Filters – Allowed HR managers to filter results by demographic and job-related attributes.
 Predictive Insights – Implemented machine learning models (Logistic Regression, Random Forest) to predict attrition likelihood and highlight at-risk employees.
 This dashboard enables data-driven HR decision-making by providing clear insights into employee retention, workforce diversity, and organizational health.
+
+
 ![Uploading 8.PNG…]()
 
